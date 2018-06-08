@@ -1,6 +1,6 @@
 # ActiveReplica
 
-[![Build Status](https://travis-ci.org/gogovan/active_replica.svg?branch=master)](https://travis-ci.org/gogovan/active_replica)
+[![Build Status](https://travis-ci.org/matthewrudy/active_replica.svg?branch=master)](https://travis-ci.org/matthewrudy/active_replica)
 
 ActiveReplica makes it super-easy (and performant) to use a read-only replica with ActiveRecord
 
